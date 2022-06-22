@@ -8,7 +8,7 @@ HTML | CSS | Javascript | Java | C#
 ### My Stats
 [![gybgivee's GitHub stats](https://github-readme-stats.vercel.app/api?username=gybgivee&theme=cobalt&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybgivee&layout=demo&theme=cobalt&show_icons=true)](https://github.com/gybgivee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybgivee&layout=demo&theme=cobalt&show_icons=true)](https://github.com/gybgivee/github-readme-stats)
 
 ### About Me
 - 🙋🏻 Wanna be Junior Software Developer 
