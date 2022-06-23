@@ -22,6 +22,8 @@ HTML | CSS | Javascript | Java | C#
 - 👩🏻‍💻 I’m currently learning Sass and I am building some cool website during the course 
     👉🏻 https://thaiprep.com/ 
 - 🏄🏽‍♀️ I’m currently mastering skills on C# and Java  
+- 📝 Using BEM method for naming CSS and apply SOLID Principle whenever possible.
+- 📝 Try to write CLEAN code.
 
 
 
