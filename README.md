@@ -20,6 +20,7 @@ HTML | CSS | Javascript | Java | C#
 
 ### Road map to Junior Developer
 - 👩🏻‍💻 I’m currently learning Sass and I am building some cool website during the course 
+    👉🏻 https://thaiprep.com/ 
 - 🏄🏽‍♀️ I’m currently mastering skills on C# and Java  
 
 
