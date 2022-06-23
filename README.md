@@ -12,7 +12,7 @@ HTML | CSS | Javascript | Java | C#
 
 ### About Me
 - 🙋🏻 Wanna be Junior Software Developer 
-- 👩🏻‍🎓 Graduated BSc Computer Science BSc(2:1) from Khon Kaen University in 2018
+- 👩🏻‍🎓 Graduated BSc Computer Science BSc from Khon Kaen University in 2018
 - 📚 Full-time studying at Boolean UK and Udemy
 - 👷🏻‍♀️ Currently working part-time at Aldi as a deputy managet while studying full-time
 - 🔍 Looking for roles as a Junior Developer
