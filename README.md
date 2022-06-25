@@ -19,8 +19,8 @@ HTML | CSS | Javascript | Java | C#
 - 😻 I am a crazy cat Lady.
 
 ### Road map to Junior Developer
-- 👩🏻‍💻 I’m currently learning Sass and I am building some cool website during the course 
-    👉🏻 https://thaiprep.com/ 
+- 👩🏻‍💻 I’m currently learning Sass and I am building some cool website during the course<br />
+    👉🏻 https://thaiprep.com/ <br />
     👉🏻 https://gybgivee.github.io/hotel-website/
 - 🏄🏽‍♀️ I’m currently mastering skills on C# and Java  
 - 📝 Using BEM method for naming CSS and apply SOLID Principle whenever possible.
