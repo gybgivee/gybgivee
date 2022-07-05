@@ -3,7 +3,7 @@
 ## Welcome to my GitHub! 🙏
 
 ### My Stack
-HTML | CSS | Javascript | Java | C# 
+HTML | CSS | Javascript | Java 
 
 ### My Stats
 [![gybgivee's GitHub stats](https://github-readme-stats.vercel.app/api?username=gybgivee&theme=cobalt&show_icons=true)
