@@ -14,7 +14,7 @@ HTML | CSS | Javascript |
 - 🙋🏻 Wanna be Junior Software Developer 
 - 👩🏻‍🎓 Graduated BSc Computer Science from Khon Kaen University in 2018
 - 📚 Full-time studying at Boolean UK and Udemy
-- 👷🏻‍♀️ Background in Retail manager
+- 👷🏻‍♀️ Background in Retail management
 - 🔍 Looking for roles as a Junior Developer
 - 😻 I am a crazy cat Lady.
 
