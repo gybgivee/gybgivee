@@ -14,7 +14,7 @@ HTML | CSS | Javascript |
 - 🙋🏻 Wanna be Junior Software Developer 
 - 👩🏻‍🎓 Graduated BSc Computer Science from Khon Kaen University in 2018
 - 📚 Full-time studying at Boolean UK and Udemy
-- 👷🏻‍♀️ Currently working part-time at Aldi as a deputy managet while studying full-time
+- 👷🏻‍♀️ Background in Retail manager
 - 🔍 Looking for roles as a Junior Developer
 - 😻 I am a crazy cat Lady.
 
