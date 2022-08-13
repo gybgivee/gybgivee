@@ -11,7 +11,7 @@ HTML | CSS | Javascript |
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gybgivee&layout=demo&theme=cobalt&show_icons=true)](https://github.com/gybgivee/github-readme-stats)
 
 ### About Me
-- 🙋🏻 Wanna be Junior Software Developer 
+- 🙋🏻 I wanna be Junior Software Developer 
 - 👩🏻‍🎓 Graduated BSc Computer Science from Khon Kaen University in 2018
 - 📚 Full-time studying at Boolean UK and Udemy
 - 👷🏻‍♀️ Background in Retail management
